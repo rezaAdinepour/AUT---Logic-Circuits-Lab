@@ -21,7 +21,7 @@
 
 ![XNOR3](./raw/xnor3.svg)
 
-- Design 3 bit parity generator in sum of products format (*SOP_ParityGenerator.v*).
-- complete  testbench file that design for validate the correctness of modules (*ParityGenerator_TB.v* and *SOP_ParityGenerator_TB*).
+- Design 3 bit parity generator in sum of products format (`SOP_ParityGenerator.v`).
+- complete  testbench file that design for validate the correctness of modules (`ParityGenerator_TB.v* and *SOP_ParityGenerator_TB`).
 
 - Synthesis design and fix Xilinx ISE log errors and warnings.
