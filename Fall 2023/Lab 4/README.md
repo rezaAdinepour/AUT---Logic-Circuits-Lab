@@ -5,7 +5,7 @@
 - How write Testbench?
 - Implementing parity bit generator
 
-### Pre-Report
+### Pre Report
 - Write truth-table of 3 bit nand gate and find Sum of Products of it.
 - write verilog code for sum of products form of 3 bit xnor gate.
 
