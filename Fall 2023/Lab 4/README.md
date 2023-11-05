@@ -10,7 +10,6 @@
 * write verilog code for sum of products form of 3 bit xnor gate.
 
 ### Grading Sources
-
 * Find type of parity generator using Table 4.1.
 
 | Type of Parity Bit     | Even | Even | Odd  | Odd |
