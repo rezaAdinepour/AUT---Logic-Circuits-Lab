@@ -22,3 +22,8 @@
 - complete  testbench file that design for validate the correctness of modules `ParityGenerator_TB.v` and `SOP_ParityGenerator_TB`
 
 - Synthesis design and fix Xilinx ISE log errors and warnings.
+
+
+### Results:
+You can see results of this module in below:
+![image]()
