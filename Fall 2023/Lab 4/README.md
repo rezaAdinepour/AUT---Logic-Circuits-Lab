@@ -13,7 +13,7 @@
 - Find type of parity generator using Table 4.1.
 
 | Type of Parity Bit     | Even | Even | Odd  | Odd |
-|:-:|-------|------|------|-----|
+|:-:|:-:|:-:|:-:|:-:|
 | Number of Ones in Data | Even | Odd  | Even | Odd |
 | Value of Parity Bit    |  1   |  0   |  1   |  0  |
 
