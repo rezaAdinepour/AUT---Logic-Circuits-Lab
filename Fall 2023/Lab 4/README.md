@@ -25,5 +25,5 @@
 
 
 ### Results:
-You can see results of this module in below:
+You can see result of this module in below:
 ![image](https://github.com/rezaAdinepour/AUT-Logic-Circuits-Lab/blob/main/Fall%202023/Lab%204/Results/Result.png)
