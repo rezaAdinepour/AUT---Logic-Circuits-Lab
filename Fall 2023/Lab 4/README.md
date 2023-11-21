@@ -25,6 +25,6 @@
 - Synthesis design and fix Xilinx ISE log errors and warnings.
 
 
-### Results:
+### Results
 You can see result of this module in below:
 ![image](https://github.com/rezaAdinepour/AUT-Logic-Circuits-Lab/blob/main/Fall%202023/Lab%204/Results/Result.png)
