@@ -28,9 +28,18 @@
 
 ### Results
 - Decoder2x4
-![DECODER](./Results/img1.png)
+![DECODER2x4](./Results/img1.png)
 
 - Mux4x1
 ![MULTIPLAXER](./Results/img2.png)
 
-- 
+- Priority Encoder4x2
+![PRIENCODER](./Results/img3.png)
+
+
+- Decoder4x16
+![DECODER4x16](./Results/img4.png)
+
+
+- POS function with 4x16 decoder
+![FUNCTION](./Results/img5.png)
