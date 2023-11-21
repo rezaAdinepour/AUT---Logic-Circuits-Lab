@@ -28,5 +28,9 @@
 
 ### Results
 - Decoder2x4
-![ENCODER, DECODER, MULTIPLEXER](./Results/img1.png)
+![DECODER](./Results/img1.png)
+
+- Mux4x1
+![MULTIPLAXER](./Results/img2.png)
+
 - 
