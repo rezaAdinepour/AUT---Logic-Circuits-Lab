@@ -10,8 +10,8 @@
 * Write verilog code for decoder 2x4, encoder 4x2 and multiplexer 4x1 in gate level.
 
 **Note**
-* [1]. for design in gate level you can use `and, nand, or, nor, xor, xnor, not` **primitives** (i.e. `not g_not(a, b)`).
-* [2]. for design in gate level you can use **assign** keyword (i.e `assign a = ~b`).
+* [1]. For design in gate level you can use `and, nand, or, nor, xor, xnor, not` **primitives** (i.e. `not g_not(a, b)`).
+* [2]. For design in gate level you can use **assign** keyword (i.e `assign a = ~b`).
 
 
 ![ENCODER, DECODER, MULTIPLEXER](./Results/components.svg)
