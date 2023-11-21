@@ -13,7 +13,7 @@
 * [2]. for design in gate level you can use **assign** keyword (i.e `assign a = ~b`).
 
 
-![ENCODER, DECODER, MULTIPLEXER](./raw/components.svg)
+![ENCODER, DECODER, MULTIPLEXER](./Results/components.svg)
 
 ### Grading Sources
 
