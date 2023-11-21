@@ -1,9 +1,10 @@
 ### Goals
 
 - How describle Encoder, Decoder, Multiplexer?
-- Structural implementation in Verilog
-- How write Testbench?
 - Implementing parity bit generator 
+- Modular implementation in Verilog
+- How write Testbench?
+
 
 ### Pre-Report
 * Write verilog code for decoder 2x4, encoder 4x2 and multiplexer 4x1 in gate level.
