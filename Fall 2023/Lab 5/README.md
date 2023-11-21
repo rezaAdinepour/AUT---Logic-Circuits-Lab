@@ -28,3 +28,5 @@
 
 ### Results
 - Decoder2x4
+![ENCODER, DECODER, MULTIPLEXER](./Results/img1.png)
+- 
