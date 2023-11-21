@@ -27,3 +27,4 @@
 * Design prime number detector by implementing **f(a,b,c,d) = &#928;(0,1,4,6,8,9,10,12,14,15)** using decoder 4x16 (`function_with_dec4x16.v`). and find testbeanch of it here (`tb_function_with_dec4x16.v`)
 
 ### Results
+- Decoder2x4
