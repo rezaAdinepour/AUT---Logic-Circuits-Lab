@@ -24,8 +24,6 @@
 
 * Design 4X16 Decoder using 2X4 Decoder and write verilog code of it (`decoder4x16.v`).
 
-* Design prime number detector by implementing **f(a,b,c,d) = &#928;(0,1,4,6,8,9,10,12,14,15)** using decoder 4x16 (***function4x1.v***).
+* Design prime number detector by implementing **f(a,b,c,d) = &#928;(0,1,4,6,8,9,10,12,14,15)** using decoder 4x16 (`function_with_dec4x16.v`). and find testbeanch of it here (`tb_function_with_dec4x16.v`)
 
-### Submission Sources
-* Source files (Grading Sources)
-* Waveform of testbeches that covers all signals in `testbench.png` diagram
+### Results
