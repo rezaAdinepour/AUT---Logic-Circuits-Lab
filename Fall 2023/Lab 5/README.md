@@ -18,7 +18,7 @@
 
 ### Grading Sources
 
-* Write verilog code for encoder, decoder, and multiplexer of pre-report section (***decoder2x4.v, encoder4x2.v, and multiplexer4x1.v***).
+* Write verilog code for encoder, decoder, and multiplexer of pre-report section (`decoder2x4.v`, `encoder4x2.v`, and `multiplexer4x1.v`).
 
 * Simulate encoder, decoder, and multiplexer verilog files in ISim. You can use included testbench files.
 
