@@ -18,14 +18,11 @@
 
 ### Grading Sources
 
-* Write verilog code for encoder, decoder, and multiplexer of pre-report section (`decoder2x4.v`, `encoder4x2.v`, and `multiplexer4x1.v`).
+* Write verilog code for encoder, decoder, and multiplexer of pre-report section (`decoder2x4.v`, `pEncoder4x2.v`, and `mux4x1.v`).
 
 * Simulate encoder, decoder, and multiplexer verilog files in ISim. You can use included testbench files.
 
-* Design 4 to 16 Decoder using 2 to 4 Decoder and write verilog code of it (***decoder4x16.v***).
-
-
-* complete  testbench file that design for validate the correctness of modules (***tb_paritiy3_gen.v***).
+* Design 4X16 Decoder using 2X4 Decoder and write verilog code of it (`decoder4x16.v`).
 
 * Design prime number detector by implementing **f(a,b,c,d) = &#928;(0,1,4,6,8,9,10,12,14,15)** using decoder 4x16 (***function4x1.v***).
 
