@@ -1,5 +1,3 @@
-## Logic Circuits Lab 05
-
 ### Goals
 
 - How describle Encoder, Decoder, Multiplexer?
