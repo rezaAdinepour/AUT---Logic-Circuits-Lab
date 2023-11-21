@@ -18,6 +18,7 @@
 | Value of Parity Bit    |  1   |  0   |  1   |  0  |
 
 - Design 3 bit parity generator by instantiating the **`xnor`** gate `ParityGenerator.v`
+![XNOR3](./Results/xnor3.svg)
 - Design 3 bit parity generator in sum of products format `SOP_ParityGenerator.v`
 - complete  testbench file that design for validate the correctness of modules `ParityGenerator_TB.v` and `SOP_ParityGenerator_TB`
 
