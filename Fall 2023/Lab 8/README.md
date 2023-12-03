@@ -8,7 +8,7 @@
 * Write verilog code for 4bit 4 to 1 multiplexer.
 * Write verilog code for arithmetic logic unit usign multiplexer and `assign` keyword.
 
-![ADDSUB](./Result/alu.png)
+![ADDSUB](./Result/alu1.png)
 
 | Operation | Description | Sel[1] | Sel[0] |
 |-----------|-------------|--------|--------| 
