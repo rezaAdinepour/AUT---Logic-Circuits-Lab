@@ -26,4 +26,3 @@
 ### Submission Sources
 * Source files (Grading Sources)
 * Waveform of testbeches that covers all signals in `testbench.png` diagram
-
