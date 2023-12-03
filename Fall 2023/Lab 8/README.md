@@ -23,6 +23,6 @@
 * Write verilog code for arithmetic logic unit of pre-report section (`alu.v`).
 * Write testbench file of alu for validate the correctness of alu by all possible states (`tb_alu.v`).
 
-### Submission Sources
-* Source files (Grading Sources)
-* Waveform of testbeches that covers all signals in `testbench.png` diagram
+### Result
+![result](./Result/ALU1.png)
+
