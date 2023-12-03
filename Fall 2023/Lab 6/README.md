@@ -1,7 +1,3 @@
-# CE202-LC-Lab-Material
-
-## Logic Circuits Lab 06
-
 ### Goals
 
 - How describle comparator in gate level?
