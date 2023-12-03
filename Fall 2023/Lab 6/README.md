@@ -6,7 +6,7 @@
 ### Pre-Report
 * Write verilog code for 3 bits comparator in gate level.
 
-![ENCODER, DECODER, MULTIPLEXER](./raw/comparator3.svg)
+![ENCODER, DECODER, MULTIPLEXER](./Result/comparator3.svg)
 
 ### Grading Sources
 
