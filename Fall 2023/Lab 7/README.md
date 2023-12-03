@@ -9,11 +9,11 @@
 
 * Write verilog code for signle bit adder/subtractor in gate level.
 
-![ADDSUB](./raw/addsub.svg)
+![ADDSUB](./Result/addsub.svg)
 
 * Write verilog code for 4-bit adder/subtractor using 1-bit adder/subtractor.
 
-![ADDSUB](./raw/addersubtractor.svg)
+![ADDSUB](./Result/addersubtractor.svg)
 
 
 ### Grading Sources
