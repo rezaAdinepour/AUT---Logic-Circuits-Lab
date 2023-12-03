@@ -15,7 +15,7 @@ I Write code for this design:
 
 ### Grading Sources
 
-* Write verilog code for 3 bits comparator of pre-report section (***comparator3.v***).
+* Write verilog code for 3 bits comparator of pre-report section (`comp3.v`).
 
 * Simulate 3 bits comparator in Xilinx ISim. You can use included testbench files.
 
