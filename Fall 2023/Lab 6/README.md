@@ -8,7 +8,9 @@
 
 ![ENCODER, DECODER, MULTIPLEXER](./Result/comparator3.svg)
 
+
 I Write code for this design:
+
 ![ENCODER, DECODER, MULTIPLEXER](./Result/comp.jpg)
 
 ### Grading Sources
