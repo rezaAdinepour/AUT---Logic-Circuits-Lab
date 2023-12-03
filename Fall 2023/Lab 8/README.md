@@ -24,5 +24,5 @@
 * Write testbench file of alu for validate the correctness of alu by all possible states (`tb_alu.v`).
 
 ### Result
-![result](./Result/result.png)
+![result](./Result/Result.png)
 
