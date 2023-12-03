@@ -19,15 +19,9 @@
 
 ### Grading Sources
 
-* Write verilog code for 4bit 4 to 1 multiplexer of pre-report section (***multiplexer4x4.v***).
-
-* Write verilog code for arithmetic logic unit of pre-report section (***alu.v***).
-
-* Synthesis alu circut without any error.
-
-* Save RTL Schematic of alu in flat mode and check its correctness.
-
-* Complete testbench file of alu for validate the correctness of alu by all possible states (***tb_alu.v***).
+* Write verilog code for 4bit 4 to 1 multiplexer of pre-report section (`multiplexer4x4.v`).
+* Write verilog code for arithmetic logic unit of pre-report section (`alu.v`).
+* Write testbench file of alu for validate the correctness of alu by all possible states (`tb_alu.v`).
 
 ### Submission Sources
 * Source files (Grading Sources)
