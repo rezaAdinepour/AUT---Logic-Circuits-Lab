@@ -11,7 +11,7 @@
 
 I Write code for this design:
 
-![ENCODER, DECODER, MULTIPLEXER](./Result/comp.jpg)
+![comp](./Result/comp.jpg)
 
 ### Grading Sources
 
@@ -20,5 +20,5 @@ I Write code for this design:
 
 
 ### Results
-
+![result](./Result/Result1.png)
 
